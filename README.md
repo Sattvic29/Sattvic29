@@ -58,7 +58,9 @@ A collection of C programming assignments and exercises focused on programming f
 - Pointers and memory management
 - Structures and unions
 
-🔗 **[Explore C Assignments](https://github.com/Sattvic29/Cassignments)**
+🔗 **[Explore C Assignments](<a href="https://github.com/Sattvic29/Cassignments">
+  <img src="https://img.shields.io/badge/VIEW_C_ASSIGNMENTS-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>)**
 
 ---
 
@@ -73,7 +75,9 @@ A collection of graphics programming assignments exploring computer graphics and
 - Windows programming
 - Graphics rendering concepts
 
-🔗 **[Explore OpenGL Projects](https://github.com/Sattvic29/OpenGL)**
+🔗 **[Explore OpenGL Projects](<a href="https://github.com/Sattvic29/OpenGL">
+  <img src="https://img.shields.io/badge/VIEW_OPENGL_PROJECTS-5C2D91?style=for-the-badge&logo=opengl&logoColor=white">
+</a>)**
 
 
 ## 🎯 Currently Exploring
@@ -84,14 +88,15 @@ A collection of graphics programming assignments exploring computer graphics and
 - Systems-level software development
 - Real-Time Rendering
 
----
-
 ## 📫 Let's Connect
 
-- **Email:** [satviknagare42@gmail.com](mailto:satviknagare42@gmail.com)
-- **GitHub:** [@Sattvic29](https://github.com/Sattvic29)
+<a href="mailto:satviknagare42@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
----
+<a href="https://github.com/Sattvic29">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <p align="center">
   <i>Building. Learning. Exploring. Improving.</i>
