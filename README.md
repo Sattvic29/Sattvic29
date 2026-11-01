@@ -75,15 +75,6 @@ A collection of graphics programming assignments exploring computer graphics and
 
 🔗 **[Explore OpenGL Projects](https://github.com/Sattvic29/OpenGL)**
 
----
-
-## 📊 GitHub Activity
-
-Explore my repositories, contributions and development activity.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github)](https://github.com/Sattvic29)
-
----
 
 ## 🎯 Currently Exploring
 
