@@ -1,70 +1,97 @@
 # 👋 Hi there, I'm Satvik Nagare!
 
-I'm a software developer interested in building efficient software, understanding system-level programming, and exploring computer graphics.
+### Software Developer | Systems Programming | Computer Graphics | GPU Computing
 
-I enjoy working with **C, C++, Windows Programming and OpenGL**, with a growing interest in systems engineering and real-time rendering.
+I'm passionate about building efficient software, understanding system-level programming, and exploring computer graphics and GPU computing.
 
----
-
-### 💻 When I Code, I Rely On
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+I enjoy working with **C, OpenGL, Windows API, CUDA and OpenCL**, with a strong interest in systems development, real-time rendering and software engineering.
 
 ---
 
-### 🚀 What I'm Interested In
+### 💻 Technologies & Tools
+
+**Programming Language**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**GPU Computing**
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenCL](https://img.shields.io/badge/OpenCL-3C78A9?style=for-the-badge&logoColor=white)
+
+**Graphics & Development**
+
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Windows API](https://img.shields.io/badge/Windows_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Tools & Platforms**
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Areas of Interest
 
 - Systems Programming
-- Software Development
-- C / C++ Development
+- C Programming
+- GPU Computing
+- CUDA & OpenCL
 - Computer Graphics
 - OpenGL & Real-Time Rendering
 - Windows Application Development
+- Software Engineering
 
 ---
 
-### 🛠️ My Projects
+### 🛠️ Featured Projects
 
-**C Programming Assignments**
+#### 01. C Programming Assignments
 
-A collection of C programming exercises covering programming fundamentals, pointers, memory management, functions and data structures.
+A collection of C programming assignments and exercises focused on programming fundamentals and problem-solving.
 
-🔗 [Explore Repository](https://github.com/Satttvic29/Cassignments)
+**Topics:**
+- Programming fundamentals
+- Functions and recursion
+- Arrays and strings
+- Pointers and memory management
+- Structures and unions
 
-**OpenGL & Real-Time Rendering**
+🔗 [View C Assignments](https://github.com/Satttvic29/Cassignments)
 
-A collection of graphics programming assignments exploring geometric shapes, transformations, rendering and computer graphics.
+#### 02. OpenGL & Real-Time Rendering
 
-🔗 [Explore Repository](https://github.com/Satttvic29/OpenGL)
+A collection of graphics programming assignments exploring computer graphics and rendering using OpenGL.
+
+**Topics:**
+- 2D and 3D graphics
+- Geometric shapes and transformations
+- Coordinate systems
+- Windows programming
+- Real-time rendering concepts
+
+🔗 [View OpenGL Projects](https://github.com/Satttvic29/OpenGL)
 
 ---
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satttvic29&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satttvic29&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satttvic29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Satttvic29&theme=tokyonight&hide_border=true" width="75%"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satttvic29&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Satttvic29&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Let's Connect
 
-- GitHub: [@Satttvic29](https://github.com/Satttvic29)
-- Email: YOUR_PROFESSIONAL_EMAIL
+- **Email:** [satviknagare42@gmail.com](mailto:satviknagare42@gmail.com)
+- **GitHub:** [@Satttvic29](https://github.com/Satttvic29)
 
 ---
 
 <p align="center">
-  <i>Building things, solving problems, and learning every day.</i>
+  <i>Building. Learning. Exploring. Improving.</i>
 </p>
