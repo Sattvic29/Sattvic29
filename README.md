@@ -58,9 +58,9 @@ A collection of C programming assignments and exercises focused on programming f
 - Pointers and memory management
 - Structures and unions
 
-🔗 **[Explore C Assignments](<a href="https://github.com/Sattvic29/Cassignments">
+<a href="https://github.com/Sattvic29/Cassignments">
   <img src="https://img.shields.io/badge/VIEW_C_ASSIGNMENTS-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>)**
+</a>
 
 ---
 
@@ -75,9 +75,9 @@ A collection of graphics programming assignments exploring computer graphics and
 - Windows programming
 - Graphics rendering concepts
 
-🔗 **[Explore OpenGL Projects](<a href="https://github.com/Sattvic29/OpenGL">
+<a href="https://github.com/Sattvic29/OpenGL">
   <img src="https://img.shields.io/badge/VIEW_OPENGL_PROJECTS-5C2D91?style=for-the-badge&logo=opengl&logoColor=white">
-</a>)**
+</a>
 
 
 ## 🎯 Currently Exploring
