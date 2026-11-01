@@ -59,7 +59,7 @@ A collection of C programming assignments and exercises focused on programming f
 - Structures and unions
 
 <a href="https://github.com/Sattvic29/Cassignments">
-  <img src="https://img.shields.io/badge/VIEW_C_ASSIGNMENTS-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_C_ASSIGNMENTS-58A6FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
